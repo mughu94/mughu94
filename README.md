@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=mughu94)
-
 ### My Github stats:
 ![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=mughu94&show_icons=true&title_color=000&icon_color=8ac926&text_color=000&bg_color=fff&hide=[%22stars%22])
 <br/>
@@ -30,4 +28,5 @@
 </p>
 
 
+![](https://komarev.com/ghpvc/?username=mughu94)
 
