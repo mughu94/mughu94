@@ -5,8 +5,9 @@
 ### Things i code with:
 
 <p>
-  <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-red?style=flat-square&logo=laravel&logoColor=white" />
   <img alt="Php" src="https://img.shields.io/badge/-PHP-45b8d8?style=flat-square&logo=php&logoColor=white" />
+  <img alt="Electron" src="https://img.shields.io/badge/-Electron-45b8d8?style=flat-square&logo=electron&logoColor=white" />
+  <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-red?style=flat-square&logo=laravel&logoColor=white" />
   <img alt="Vue" src="https://img.shields.io/badge/-Vuejs-43853d?style=flat-square&logo=vue.js&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Nuxt" src="https://img.shields.io/badge/-Nuxt-795548?style=flat-square&logo=Nuxt.js&logoColor=white" />
