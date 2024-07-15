@@ -5,7 +5,7 @@
 ### Things i code with:
 
 <p>
-  <img alt="Php" src="https://img.shields.io/badge/-PHP-45b8d8?style=flat-square&logo=php&logoColor=white" />
+  <img alt="Php" src="https://img.shields.io/badge/-PHP-blue?style=flat-square&logo=php&logoColor=white" />
   <img alt="Electron" src="https://img.shields.io/badge/-Electron-45b8d8?style=flat-square&logo=electron&logoColor=white" />
   <img alt="Electron" src="https://img.shields.io/badge/-Flutter-blue?style=flat-square&logo=flutter&logoColor=white" />
   <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-red?style=flat-square&logo=laravel&logoColor=white" />
