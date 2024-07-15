@@ -2,6 +2,12 @@
 
 ![](https://komarev.com/ghpvc/?username=mughu94)
 
+### My Github stats:
+![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=mughu94&show_icons=true&title_color=000&icon_color=8ac926&text_color=000&bg_color=fff&hide=[%22stars%22])
+<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mughu94&layout=compact&text_color=000&bg_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### Things i code with:
 
 <p>
@@ -22,13 +28,6 @@
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 </p>
-
-### My Github stats:
-![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=mughu94&show_icons=true&title_color=000&icon_color=8ac926&text_color=000&bg_color=fff&hide=[%22stars%22])
-
-<br/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mughu94&layout=compact&text_color=000&bg_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
