@@ -7,13 +7,13 @@
 <p>
   <img alt="Php" src="https://img.shields.io/badge/-PHP-45b8d8?style=flat-square&logo=php&logoColor=white" />
   <img alt="Electron" src="https://img.shields.io/badge/-Electron-45b8d8?style=flat-square&logo=electron&logoColor=white" />
+  <img alt="Electron" src="https://img.shields.io/badge/-Flutter-blue?style=flat-square&logo=flutter&logoColor=white" />
   <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-red?style=flat-square&logo=laravel&logoColor=white" />
   <img alt="Vue" src="https://img.shields.io/badge/-Vuejs-43853d?style=flat-square&logo=vue.js&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Nuxt" src="https://img.shields.io/badge/-Nuxt-795548?style=flat-square&logo=Nuxt.js&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Mysql" src="https://img.shields.io/badge/-Mysql-9C27B0?style=flat-square&logo=mysql&logoColor=white" />
-  <img alt="Vuex" src="https://img.shields.io/badge/-Vuex-2757b0?style=flat-square&logo=Vuex&logoColor=white" />
   <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
   <img alt="Github" src="https://img.shields.io/badge/-Github-2088FF?style=flat-square&logo=github&logoColor=white" />
